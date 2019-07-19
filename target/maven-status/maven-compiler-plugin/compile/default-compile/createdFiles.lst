@@ -1,0 +1,13 @@
+com\project2\spring\controller\AppController.class
+com\project2\spring\model\Role.class
+com\project2\spring\configuration\AppConfig.class
+com\project2\spring\configuration\JpaConfiguration.class
+com\project2\spring\service\UserService.class
+com\project2\spring\configuration\AppInitializer.class
+com\project2\spring\model\MaritalStatus.class
+com\project2\spring\service\UserServiceImpl.class
+com\project2\spring\dao\UserDaoImpl.class
+com\project2\spring\dao\UserDao.class
+com\project2\spring\dao\AbstractDao.class
+com\project2\spring\model\Skill.class
+com\project2\spring\model\User.class
